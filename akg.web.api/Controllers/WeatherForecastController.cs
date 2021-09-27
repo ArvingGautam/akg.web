@@ -18,6 +18,7 @@ namespace akg.web.api.Controllers
 
         private readonly ILogger<WeatherForecastController> _logger;
 
+        //public constructor
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
         {
             _logger = logger;
