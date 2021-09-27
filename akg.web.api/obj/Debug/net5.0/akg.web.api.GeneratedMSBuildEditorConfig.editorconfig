@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = akg.web.api
-build_property.ProjectDir = C:\DOCUMENTS\Projects\WebAPI\akg.web.api\akg.web.api\
+build_property.ProjectDir = c:\DOCUMENTS\Projects\WebAPI\akg.web.api\akg.web.api\
